@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    padding: 20px;
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.todo-container{
+    margin: auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    max-width: 400px;
+    
+}
+h1{
+    text-align: center;
+}
+u1{
+    padding: 0;
+}
+input{
+    padding: 10px;
+    margin: 10px 5px 10px 0;
+}
+li{
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+}
+.DELETE-BUTTON{
+    background-color: red;
+    color: whitesmoke;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+.add-button{
+    background-color: purple;
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+}
